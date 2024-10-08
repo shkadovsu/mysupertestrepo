@@ -1,0 +1,2 @@
+# mysupertestrepo
+for_superproject
